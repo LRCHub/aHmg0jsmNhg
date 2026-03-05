@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "vampire",
+  "base_artist": "Olivia Rodrigo",
+  "createdAt": "2026-03-05T17:37:03.735736Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Vampire",
+      "artist": "Sinéad O'Connor",
+      "has_synced": true,
+      "path": "select/01_Vampire_Sinéad_O'Connor.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Vampire - Dub Version",
+      "artist": "Sinéad O'Connor",
+      "has_synced": false,
+      "path": "select/02_Vampire_-_Dub_Version_Sinéad_O'Connor.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Vampire (dub)",
+      "artist": "Sinead O'Connor",
+      "has_synced": false,
+      "path": "select/03_Vampire_(dub)_Sinead_O'Connor.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Vampire Love",
+      "artist": "ASH",
+      "has_synced": true,
+      "path": "select/04_Vampire_Love_ASH.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fearless Vampire Killers",
+      "artist": "Bad Brains",
+      "has_synced": true,
+      "path": "select/05_Fearless_Vampire_Killers_Bad_Brains.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Vampire Smile",
+      "artist": "Kyla La Grange",
+      "has_synced": true,
+      "path": "select/06_Vampire_Smile_Kyla_La_Grange.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bloodletting (The Vampire Song)",
+      "artist": "Concrete Blonde",
+      "has_synced": true,
+      "path": "select/07_Bloodletting_(The_Vampire_Song)_Concrete_Blonde.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Baby Vampire Made Me",
+      "artist": "Helium",
+      "has_synced": false,
+      "path": "select/08_Baby_Vampire_Made_Me_Helium.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Wanna Be a Vampire Too, Baby",
+      "artist": "Helium",
+      "has_synced": false,
+      "path": "select/09_Wanna_Be_a_Vampire_Too,_Baby_Helium.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Left My Wallet In El Segundo (Vampire Mix)",
+      "artist": "A Tribe Called Quest",
+      "has_synced": false,
+      "path": "select/10_I_Left_My_Wallet_In_El_Segundo_(Vampire_Mix)_A_Tribe_Called_Quest.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I'm a Vampire",
+      "artist": "Future Bible Heroes",
+      "has_synced": false,
+      "path": "select/11_I'm_a_Vampire_Future_Bible_Heroes.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Quest for Blood (Le Vampire)",
+      "artist": "Ancient Rites",
+      "has_synced": true,
+      "path": "select/12_Quest_for_Blood_(Le_Vampire)_Ancient_Rites.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Vampire Lord Speaks…",
+      "artist": "Necromantia",
+      "has_synced": false,
+      "path": "select/13_The_Vampire_Lord_Speaks..._Necromantia.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Vampire - Live",
+      "artist": "Death SS",
+      "has_synced": false,
+      "path": "select/14_Vampire_-_Live_Death_SS.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Martin (The Vampire)",
+      "artist": "Mortician",
+      "has_synced": false,
+      "path": "select/15_Martin_(The_Vampire)_Mortician.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Vampire Sun",
+      "artist": "Cathedral",
+      "has_synced": true,
+      "path": "select/16_Vampire_Sun_Cathedral.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "vampire",
+      "artist": "Olivia Rodrigo",
+      "has_synced": false,
+      "path": "select/pl_01_vampire_Olivia_Rodrigo.txt"
+    }
+  ]
+}
